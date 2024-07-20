@@ -1,0 +1,15 @@
+.home-image-text {
+   position: relative;
+   display: flex;
+}
+
+.text {
+   position: absolute;
+   display: flex;
+   top: 100px;
+   margin-left: 100px;
+   justify-content: center;
+   color: black;
+   background-color: aliceblue;
+   width: 75vw;
+}
