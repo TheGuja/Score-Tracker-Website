@@ -1,0 +1,28 @@
+{
+  "name": "wgi_backend",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node backend/index.ts",
+    "dev": "nodemon backend/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.12",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/mongoose": "^5.11.97",
+    "cors": "^2.8.5",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "ts-node": "^10.9.2"
+  }
+}
