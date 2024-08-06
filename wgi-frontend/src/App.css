@@ -1,0 +1,23 @@
+/* #psw-h3-ranking {
+  display: inline;
+  flex-direction: row;
+}
+
+#pso-h3-ranking {
+  display: ;
+  flex-direction: row;
+}
+
+#psw {
+
+} */
+
+.independent-ranking-container {
+  margin-right: 20%;
+}
+
+.all-rankings {
+  display: flex;
+  margin-left: 20%;
+
+}
